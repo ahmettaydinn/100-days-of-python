@@ -1,2 +1,3 @@
 # 100-days-of-python
-Python projects
+## 100 Python projects
+###### by Ahmet Aydın
