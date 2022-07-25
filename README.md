@@ -4,11 +4,11 @@
 ###### by Ahmet Aydın
 ## <i>My Projects</i>
 <ol>
- <li>
- <li>
- <li>
- <li>
- <li>
+ <li>Band name generator</li>
+ <li>Tip Calculator</li>
+ <li>Treasure Island game</li>
+ <li>Rock Paper Scissors</li>
+ <li>Password Generator</li>
  <li>
  <li>
  <li>
