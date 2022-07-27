@@ -10,12 +10,12 @@
  <li>Treasure Island game</li>
  <li>Rock Paper Scissors</li>
  <li>Password Generator</li>
- <li>
- <li>
- <li>
- <li>
- <li>
- <li>
+ <li>Escaping the Maze game</li>
+ <li>Hangman Game</li>
+ <li>Ceaser Cipher</li>
+ <li>Auction Program</li>
+ <li>Calculator</li>
+ <li>Blackjack game</li>
  <li>
  <li>
  <li>
