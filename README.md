@@ -24,8 +24,8 @@
  <li>Quiz Project</li>
  <li>Drawing with Turtle GUI</li>
  <li>Turtle Racing game</li>
- <li>
- <li>
+ <li>Snake Game V1</li>
+ <li>Snake Game V2</li>
  <li>
  <li>
  <li>
