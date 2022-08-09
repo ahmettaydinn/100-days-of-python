@@ -15,7 +15,7 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 100 projects in 100 days. All the personal projects for Great professor and great course, really recommend it:
 [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code).
 
-![wallpaper](wallpaper.png)
+
 
 ## 👨🏻‍🎓 Beginner
 - [Day 1](day01): Working with Variables in Python to Manage Data
