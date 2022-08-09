@@ -1,7 +1,11 @@
-#                           100-days-of-python
-#### Mastered Python by building 100 projects in 100 days. Experienced data science, automation, build websites, games and apps!
-###### by Ahmet Aydın
-
+<p align="center">
+<img width="" src="https://media.giphy.com/media/kPVTbiTORIopy/giphy.gif" align="center" alt="gif" />
+<h1 align="center">100 Days of Python 🐍 
+    <a href="https://twitter.com/intent/tweet?&url=https://github.com/lenargasimov/100-days-of-python&via=lenargasimov&hashtags=html,css,bootstrap,js,python,flask,100daysofcode,developers">
+      <img alt="Tweet" src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" />
+    </a>
+</h1>
+</p>
 <p align="center">
     <img src="https://img.shields.io/github/last-commit/lenargasimov/100-days-of-python?style=plastic" alt="GitHub last commit">
     <img src="https://img.shields.io/github/forks/lenargasimov/100-days-of-python.svg" alt="">
