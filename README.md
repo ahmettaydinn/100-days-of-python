@@ -1,9 +1,7 @@
 <p align="center">
 <img width="" src="https://media.giphy.com/media/kPVTbiTORIopy/giphy.gif" align="center" alt="gif" />
 <h1 align="center">100 Days of Python 🐍 
-    <a href="https://twitter.com/intent/tweet?&url=https://github.com/lenargasimov/100-days-of-python&via=lenargasimov&hashtags=html,css,bootstrap,js,python,flask,100daysofcode,developers">
-      <img alt="Tweet" src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" />
-    </a>
+
 </h1>
 </p>
 <p align="center">
@@ -172,13 +170,4 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - Web Design
 - Deployment with GitHub Pages, Heroku and GUnicorn
 
-![certificate](certificate.jpg)
 
-This certificate above verifies that Lenar Gasimov successfully completed the course 
-[100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code)  on 05/20/2021 as taught by Dr. Angela Yu on Udemy. 
-The certificate indicates the entire course was completed as validated by the student. 
-The course duration represents the total video hours of the course at time of most recent completion.
-
----
-
-@lenargasimov 🐍 2021
