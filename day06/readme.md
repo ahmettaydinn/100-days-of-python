@@ -1,5 +1,6 @@
 <h2> Reeborg's World</h2>
 <hr>
-<span>Check my code👉 <span><a href='https://replit.com/@AhmetAydin3/day05?v=1'>My Code!</a>
+<p>It's an online game designed to teach fundementals of programming. You write codes to direct the robot. I have finished all the levels succesfully.<p>
+<span>Check the website👉 <span><a href='https://reeborg.ca/index_en.html'>Reeborg's Website!</a>
 <hr>
 <img src='escaping_the_maze.gif' alt=screenshot/>
