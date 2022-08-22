@@ -4,5 +4,3 @@
 <hr>
 <img src='guess_number.gif' alt="guess"/>
 
-
-[re](https://replit.com/@AhmetAydin3/day12?v=1)
