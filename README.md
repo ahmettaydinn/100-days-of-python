@@ -1,8 +1,6 @@
 <p align="center">
-<img width="" src="https://media.giphy.com/media/kPVTbiTORIopy/giphy.gif" align="center" alt="gif" />
-<h1 align="center">100 Days of Python 🐍 
-
-</h1>
+<a href="https://www.linkedin.com/in/ahmet-ayd%C4%B1n-2583b1199/" target="_blank"><img src="ahmet.png" alt="screenshot"></a>
+<h1 align="center">100 Days of Python 🐍 </h1>
 </p>
 
 
