@@ -7,4 +7,4 @@
 <span>SMS API👉<span><a href='https://www.twilio.com/try-twilio'>Twilio SMS API!</a> 
 <hr>
 
-<img src='rain.png alt="Rain Alert"/>
+<img src='rain.png' alt="Rain Alert"/>
