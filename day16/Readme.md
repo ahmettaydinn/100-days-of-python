@@ -1,5 +1,5 @@
-# I rewrote the coffee machine project with Object Oriented Programming
 <h2> OOP Coffee Machine Project</h2>
+I rewrote the coffee machine project with Object Oriented Programming
 <hr>
 <a href='https://github.com/BAVI-BOOP/100-days-of-python/blob/main/day16/Coffee%20Machine%20Program%20Requirements.pdf'>requirements!</a>
 <p>Check the requirements of the project if you wish</p>
