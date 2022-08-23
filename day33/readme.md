@@ -1,4 +1,6 @@
-<h2>Project 1: Kanye says GUI Project 2: ISS Overhead Notifier</h2>
+<h2>Project 1: Kanye says GUI </h2>
+<hr>
+<h2>Project 2: ISS Overhead Notifier</h2>
 <hr>
 <p>Learned about Python requests library GET API and built a program to notify me by email if the ISS is over head.Also I used an API called Kanye rest to get Kanye's quotes</p>
 <hr>
