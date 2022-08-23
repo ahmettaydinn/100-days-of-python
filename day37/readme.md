@@ -1,6 +1,6 @@
 <h2>habit Tracking Project</h2>
 <hr>
-<p>Learned about Python requests library  API and built a Habit .</p>
+Learnt advanced authentication and POST, PULL, DELETE requests and built a Habit tracking application using Pixela API.
 <hr>
 <span>Pixela API👉<span><a href='https://docs.pixe.la//'>Pixela API!</a> 
 <hr>
