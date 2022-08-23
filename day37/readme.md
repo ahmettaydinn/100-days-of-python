@@ -1,4 +1,4 @@
-<h2>habit Tracking Project</h2>
+<h2>Habit Tracking Project</h2>
 <hr>
 Learnt advanced authentication and POST, PULL, DELETE requests and built a Habit tracking application using Pixela API.
 <hr>
