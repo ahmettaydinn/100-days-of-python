@@ -5,7 +5,7 @@
 <hr>
 <span>Kanye rest API👉<span><a href='https://kanye.rest/'>Kanye Rest API!</a> 
 <hr>
-<span>I used python Tkinter GUI👉<span><a href='https://kanye.rest/'>Kanye Rest API!</a> 
+<span>I used python Tkinter GUI👉<span><a href='https://docs.python.org/3/library/tkinter.html'>Tkinter!</a> 
 <hr>
 <span>Kanye says Program Video🎥<span><a href='https://www.linkedin.com/posts/ahmet-ayd%C4%B1n-2583b1199_it-is-the-first-time-i-use-an-api-myself-activity-6949002427089977344-W6iO?utm_source=share&utm_medium=member_desktop'>Kanye Program!</a> 
 <hr>
