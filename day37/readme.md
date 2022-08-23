@@ -5,4 +5,4 @@ Learnt advanced authentication and POST, PULL, DELETE requests and built a Habit
 <span>Pixela API👉<span><a href='https://docs.pixe.la//'>Pixela API!</a> 
 <hr>
 
-<img src='habit.png' alt="Rain Alert"/>
+<img src='habit.png' alt="Habit Track Chart"/>
