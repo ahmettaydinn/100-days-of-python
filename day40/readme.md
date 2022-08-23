@@ -10,4 +10,4 @@ Built my Flight Club, using Google sheets added email notify to other users and 
 <hr>
 <span>Flight API👉<span><a href='https://tequila.kiwi.com/portal/login'>Tequila API!</a> 
 <hr>
-<img src='habit.png' alt="Habit Track Chart"/>
+<img src='customer.png' alt="Flight Club"/>
