@@ -1,4 +1,4 @@
-<h2>snake Game Part 1</h2>
+<h2>Snake Game Part 1</h2>
 <hr>
 <span>I used turtle module👉<span><a href='https://docs.python.org/3/library/turtle.html'>Turtle.py!</a>
 <hr>
