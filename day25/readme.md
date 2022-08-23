@@ -5,6 +5,6 @@
 <span>I used python CSV and Pandas library👉<span><a href='https://docs.python.org/3/library/filesys.html'>Pandad library!</a>
 <hr>
 <hr>
-<span>Very similar game👉<span><a href='https://www.sporcle.com/games/g/states'>Python file doc!</a>
+<span>Very similar game👉<span><a href='https://www.sporcle.com/games/g/states'>Game on Web!</a>
 <hr>
 <img src='us_states_game.gif' alt=US states game/>
